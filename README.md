@@ -16,7 +16,7 @@ This project focuses on building a machine learning model to predict customer ch
 
 Customer churn is one of the key challenges for service providers. This project builds a robust pipeline using preprocessing, feature engineering, model training, and hyperparameter tuning to predict whether a customer will leave the company.
 
-## Introduction
+## Dataset
 
 - Dataset Source: [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn.csv)
 - File: `WA_Fn-UseC_-Telco-Customer-Churn.csv`
